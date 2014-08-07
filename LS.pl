@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 ##################################################################################
-# Un LS tipo grilla, con tamaÃ±o de archivos, MD5's y permeable a regexs.
+# Un LS tipo grilla, con tamaño de archivos, MD5's y permeable a regexs.
 ##################################################################################
 use Getopt::Std;
 use Pod::Usage;

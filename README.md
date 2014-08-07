@@ -1,4 +1,4 @@
 LS.pl
 =====
 
-Simple LS permeable a regexes y con otras bondades.
+Simple LS con checksum MD5, permeable a regexes y otras bondades.
